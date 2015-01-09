@@ -1,0 +1,1 @@
+Diff bug view helped rapid difference info
