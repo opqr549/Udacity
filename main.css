@@ -1,0 +1,83 @@
+﻿h1{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    font-size: 48px;
+    padding-top: 28px;
+    margin-left: 236px;
+    
+
+}
+h2{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #F07C17;
+    margin-left: -71px;
+    font-size: 24px;
+    font-weight: 900;
+    
+}
+#apple{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #F07C17;
+    font-size: 24px;
+    font-weight: 900;
+    margin-left: 40px;
+    padding-top: 11px;
+}
+#one{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    margin-left: -73px;
+    font-weight: 600;
+    margin-top: 6%;
+    line-height: 230%;
+    word-spacing: 1px;
+}
+#two{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    margin-left: -73px;
+    font-weight: 600;
+    margin-top: 1%;
+    line-height: 230%;
+    word-spacing: 1px;
+}
+#three{
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    margin-left: -73px;
+    font-weight: 600;
+    margin-top: 1%;
+    line-height: 230%;
+    word-spacing: 1px;
+}
+#goat{
+    padding-right: 1px;
+    padding-top:5px;
+    padding-bottom: 4%;
+    height: 53.3%;
+    width: 82%;
+}
+.boxed{
+    border: solid 1px #CCCCCC;
+    margin-top: 2%;
+   
+    margin-right: 18%;
+    
+    
+}
+ul{
+    padding-top: 6%;
+    
+}
+li{
+    padding-bottom:4.5%;
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 9%;
+
+}
